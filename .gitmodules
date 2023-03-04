@@ -1,0 +1,13 @@
+[submodule "data/meta/AMI-diarization-setup"]
+	path = data/meta/AMI-diarization-setup
+	url = https://github.com/BUTSpeechFIT/AMI-diarization-setup
+[submodule "external/PSDA"]
+	path = external/PSDA
+	url = https://github.com/bsxfan/PSDA
+[submodule "external/dscore"]
+	path = external/dscore
+	url = https://github.com/nryant/dscore
+[submodule "data/meta/voxconverse"]
+	path = data/meta/voxconverse
+	url = https://github.com/joonson/voxconverse
+	branch = ver0.2

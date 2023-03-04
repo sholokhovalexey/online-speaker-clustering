@@ -1,0 +1,9 @@
+
+datasets:
+    AISHELL-4: "/home/alexey/Data/Audio/AISHELL-4"
+    AliMeeting: "/home/alexey/Data/Audio/AliMeeting"
+    AMI: "/home/alexey/Data/Audio/AMI/amicorpus"
+    VoxConverse: "/home/alexey/Data/Audio/VoxConverse"
+    VoxCeleb1-dev: "/home/alexey/Data/Audio/vox1_dev/wav"
+    VoxCeleb1-test: "/home/alexey/Data/Audio/vox1_test/wav"
+
